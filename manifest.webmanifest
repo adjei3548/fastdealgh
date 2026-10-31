@@ -1,0 +1,10 @@
+{
+  "name": "FASTDEAL GH",
+  "short_name": "FASTDEALGH",
+  "description": "Fast & Affordable Digital Services in Ghana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "icons": []
+}
